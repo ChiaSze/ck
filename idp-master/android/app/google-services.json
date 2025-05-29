@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535806957723",
+    "project_id": "idp-bms-92138",
+    "storage_bucket": "idp-bms-92138.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535806957723:android:2dd29cdd3eba35df64ce3e",
+        "android_client_info": {
+          "package_name": "com.example.idp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnOh6-3GrlmygI4yq_8qHtyVOyZ5NsEW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
